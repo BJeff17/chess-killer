@@ -21,7 +21,6 @@ KING -> king
 WHITE = 1
 BLACK = -1
 NULL = 2
-
 KING = 20
 POWN = 1
 KNIGHT = 2.7
