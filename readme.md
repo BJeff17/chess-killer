@@ -1,6 +1,5 @@
 # ♟ CHESS-KILLER
 
-<<<<<<< HEAD
 **CHESS-KILLER** is an experimental chess engine built from scratch in Python, combining
 custom chess rules implementation and a neural network–based evaluation function.
 
@@ -198,4 +197,3 @@ Built as a research and experimentation project.
     
 ## Step 2: Trying to implement 
 
->>>>>>> 98ead9f (update readme.md)
